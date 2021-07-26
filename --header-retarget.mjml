@@ -1,0 +1,60 @@
+<mjml>
+  <mj-body background-color="#fff" width="680px">
+
+    <mj-section>
+      <mj-column>
+        <mj-text color="#000000" align="center" font-size="12px" line-height="12px" font-weight="400"> E-mail não está sendo exibido corretamente? <a href="{webversion}">clique aqui</a>. </mj-text>
+      </mj-column>
+    </mj-section>
+
+    
+
+     <mj-section background-color="#707070" padding="0">
+
+     <mj-column vertical-align="middle" padding="0">
+
+     	<mj-text  color="#ffffff" align="center" font-size="14px" line-height="20px" font-weight="400" text-transform="none" font-family="'Helvetica Neue',Arial, sans-serif">
+
+          uma Seleção de produtos <br>
+        
+        <span style="font-size:30px; line-height: 50px;">
+        	especial para você
+        </span>
+        </br>
+        Todos os produtos desta lista foram selecionados a partir <br>
+        da sua navegação. aproveite!
+
+      </mj-text>
+
+      <mj-image padding="0" href="https://www.linx.com.br" src="https://static.shopback.net/shopconvert/uploads/imagens/Capturar.PNG" width="680px" /> 
+      
+      </mj-column>
+    </mj-section>
+       
+    <mj-section background-color="#ffffff" padding="0">
+
+     <mj-column vertical-align="middle" padding="0">
+
+     	<mj-text  color="#000000" align="left" font-size="18px" line-height="20px" font-weight="400" text-transform="none" font-family="'Helvetica Neue',Arial, sans-serif">
+
+          Olá, Fulano 'Em nossa ferramenta Shopback temos a Variável {cliente_nome}'
+        
+        <br>
+        
+        <span style="font-size:12px;">
+        	Fizemos uma lista especial de produtos apenas para você. Isso mesmo: nesta lista temos só produtos que você pode gostar. Seu amigo Ciclano lhe recomendou essa lista especial. Olha só:
+        </span>
+        </br>
+       
+
+      </mj-text>
+
+      
+      
+      </mj-column>
+    </mj-section>
+
+     
+    
+  </mj-body>
+</mjml>

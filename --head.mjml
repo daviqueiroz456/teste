@@ -1,0 +1,27 @@
+<mjml>
+
+  <mj-body background-color="#fff" width="680px">
+
+
+<mj-head>
+  <mj-attributes>
+    <mj-text align="center" color="#555" />
+    <mj-section background-color="#fff" />
+    <mj-all href="https://www.linx.com.br" font-family=" 'Oswald',Arial, sans-serif" />    
+  </mj-attributes>
+  <mj-font name="Oswald" href="https://fonts.googleapis.com/css?family=Oswald:300,400,500&display=swap" rel="stylesheet" />
+  <mj-style inline="inline">
+    .link-nostyle { color: inherit; text-decoration: none }
+  </mj-style>
+  <mj-style>
+    @media (max-width: 400px) {
+    	.center {
+    		text-align: center !important;
+      }		    
+    }
+  </mj-style>
+</mj-head>
+
+</mj-body>
+</mjml>  
+

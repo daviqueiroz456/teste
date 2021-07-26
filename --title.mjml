@@ -1,0 +1,19 @@
+  <mjml>
+    <mj-body background-color="#fff" width="680px">
+     
+    <mj-wrapper background-color="#ffffff" padding="0 3%">
+    <mj-section>
+      <mj-column vertical-align="middle">
+        
+        <mj-button href="{produto_link}" width="383px" border-radius="5px"border="1px solid #888888" background-color="#ffffff" color="#888888" font-size="16px" font-weight="400" font-family="'Helvetica Neue',Arial, sans-serif">
+
+          Tem muito mais aqui. Vem ver!
+
+        </mj-button>
+        
+      </mj-column>
+    </mj-section>
+    
+    </mj-wrapper>
+    </mj-body>
+  </mjml>

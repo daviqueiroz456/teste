@@ -1,0 +1,42 @@
+  <mjml>
+    <mj-body background-color="#fff" width="680px">
+      <mj-column width="47%" vertical-align="middle" padding="10px 0">
+        <mj-image padding="0" src="{produto_imagem}" href="{produto_link}" height="303px" width="303px" />
+        
+        <mj-text font-size="20px" color="#000000" align="left" padding-top="20px" padding-bottom="0" height="125px" font-weight="400" text-transform="none" font-family="'Helvetica Neue',Arial, sans-serif">
+          {produto_nome}
+        </mj-text>
+				
+        <mj-text font-size="14px" height="14px" color="#000000" align="left" padding-bottom="5px" text-decoration="line-through" font-family="'Helvetica Neue',Arial, sans-serif">
+          <!--{produto_promocao}-->
+          
+          De R$ {preco}
+
+          <!--{/produto_promocao}-->
+        </mj-text>
+
+        <mj-text font-size="26px" color="#000000" align="left" padding-bottom="5px" font-weight="900" font-family="'Helvetica Neue',Arial, sans-serif">
+
+          <span style="font-size: 20px">por:</span> 
+          
+          R$ {produto_preco}
+
+        </mj-text>
+
+        <mj-text height="16px" font-size="16px" font-weight="300" color="#000000" align="left" padding-bottom="10px" text-transform="none" font-family="'Helvetica Neue',Arial, sans-serif">
+          <!--{produto_parcelas}-->
+          
+            ou {numero}x de R$ {preco}
+
+          <!--{/produto_parcelas}-->
+        </mj-text>
+        
+  			<mj-button href="{produto_link}" width="250px" border-radius="5px"border="1px solid #888888" background-color="#ffffff" color="#888888" font-size="16px" font-weight="400" font-family="'Helvetica Neue',Arial, sans-serif">
+
+          Comprar
+
+        </mj-button>
+        
+      </mj-column>
+    </mj-body>
+  </mjml>

@@ -1,0 +1,61 @@
+<mjml>
+
+  
+
+  <mj-body background-color="#fff" width="680px">
+     
+       
+       
+       
+    
+       
+         
+             
+     
+     
+    <mj-section background-color="#ffffff" padding="0px">
+      <mj-column vertical-align="middle" padding="0">
+        
+        <mj-image href="https://www.universobubble.com.br" src="https://static.shopback.net/shopconvert/uploads/imagens/Capturar-footer.PNG" width="680px"
+          align="center" padding="0" />
+
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#707070" padding="0px">
+      <mj-column vertical-align="middle" padding="20px">
+        
+        
+
+      <mj-text font-size="13px" line-height="16px" font-weight="400" color="#ffffff" align="center" padding-bottom="0px" text-transform="none" font-family="'Helvetica Neue',Arial, sans-serif">
+
+          Testando Suas habilidades em HTML, CSS e JS. <br>
+        Linx Impulse<br>
+        2019          
+      </mj-text>
+
+        
+
+      </mj-column>
+    </mj-section>
+
+     
+
+    
+    
+    <mj-section>
+      <mj-column>
+
+        <mj-text color="#000000" align="center" font-size="12px" line-height="12px" font-weight="400">
+
+          Caso não queira receber nossas informações, 
+          
+          <a href="{optout}">clique aqui!</a>
+
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

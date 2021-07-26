@@ -1,0 +1,46 @@
+<mjml>
+
+  <mj-include path="./--head.mjml" />
+
+  <mj-body background-color="#fff" width="680px">
+    
+    <mj-include path="./--header-retarget.mjml" />
+
+    <mj-wrapper background-color="#ffffff" padding="0 3%">
+      <!-- {produtos_2} -->
+    <mj-section padding="0" background-color="#fff">
+      <!-- {produto_1} -->
+      <mj-include path="./--product.mjml" />
+      <!-- {/produto_1} -->
+      <mj-column width="10px" vertical-align="middle" padding="10px 0"></mj-column>
+      <!-- {produto_2} -->
+      <mj-include path="./--product.mjml" />
+      <!-- {/produto_2} -->
+    </mj-section>
+      <!-- {/produtos_2} -->      
+   
+      <mj-section padding="0" background-color="#fff">
+        <!-- {produtos_1} -->
+        <!-- {produto_1} -->
+        <mj-include path="./--product.mjml" />
+        <!-- {/produto_1} -->
+        <!-- {/produtos_1} -->
+      </mj-section>
+    </mj-wrapper>
+      <mj-include path="./--title.mjml" />
+      
+    <mj-wrapper background-color="#ffffff" padding="0 3%">
+
+      <mj-section>
+          <mj-column width="10px" vertical-align="middle" padding="10px 0"></mj-column>
+        <!-- {recomendacao_3} -->
+          <mj-include path="./--product-small.mjml" />
+        <!-- {/recomendacao_3} -->
+      </mj-section>
+    </mj-wrapper>
+    
+
+    <mj-include path="./--footer.mjml" />
+  </mj-body>
+</mjml>
+<!--{no-privacy}-->
